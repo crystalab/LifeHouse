@@ -1,16 +1,16 @@
-= Ring Buffer
+# Ring Buffer
 
-== Overview
+## Overview
 
-=== Description
+### Description
 
 This is a python3 implementation of Ring Buffer.
 
-=== Prerequisites
+### Prerequisites
 
 You need to install python3 to be able to run unit tests.
 
-=== Run tests
+### Run tests
 
 ```bash
 python -m unittest test_ring_buffer.py
